@@ -33,7 +33,10 @@ http://localhost:3000
   * **Code:** 500 INTERNAL SERVER ERROR <br />
     **Content:** `{...}` <br /> <br />
 
-
+* **Sample Call:**
+```javascript
+https://ancient-mesa-33338.herokuapp.com/task'
+```
 
 
 
@@ -79,6 +82,11 @@ http://localhost:3000
   * **Code:** 500 INTERNAL SERVER ERROR <br />
     **Content:** `{...}` <br /> <br />
 
+  * **Sample Call:**
+```javascript
+https://ancient-mesa-33338.herokuapp.com/task/:id'
+```
+
 
 
 
@@ -122,6 +130,10 @@ http://localhost:3000
   * **Code:** 500 INTERNAL SERVER ERROR <br />
     **Content:** `{...}` <br /> <br />
 
+* **Sample Call:**
+```javascript
+https://ancient-mesa-33338.herokuapp.com/task'
+```
 
 
 
@@ -166,6 +178,10 @@ http://localhost:3000
   * **Code:** 500 INTERNAL SERVER ERROR <br />
     **Content:** `{...}` <br /> <br />
 
+* **Sample Call:**
+```javascript
+https://ancient-mesa-33338.herokuapp.com/task/:id'
+```
 
 
 
@@ -220,3 +236,8 @@ http://localhost:3000
 
   * **Code:** 500 INTERNAL SERVER ERROR <br />
     **Content:** `{...}` <br /> <br />
+
+* **Sample Call:**
+```javascript
+https://ancient-mesa-33338.herokuapp.com/task/:id'
+```
